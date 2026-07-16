@@ -1,3 +1,8 @@
+<img width="1300" height="650" alt="06_fb_reach_rolling_avg" src="https://github.com/user-attachments/assets/24ab32f4-964b-48ce-969f-9ce417131526" />
+<img width="975" height="780" alt="05_correlation_heatmap" src="https://github.com/user-attachments/assets/bd46b5d1-6f64-45b5-9a2d-eeff143d6164" />
+<img width="910" height="650" alt="03_booking_funnel" src="https://github.com/user-attachments/assets/28a9fab7-0534-4273-bb2a-ac115d3efa86" />
+<img width="1300" height="650" alt="02_website_growth" src="https://github.com/user-attachments/assets/13940e49-5649-485b-9173-28a734c2c091" />
+<img width="1300" height="650" alt="01_reach_trend" src="https://github.com/user-attachments/assets/0aa1d058-e476-48ab-8beb-285df8882a8f" />
 <img width="975" height="780" alt="05_correlation_heatmap" src="https://github.com/user-attachments/assets/71fb5e04-0124-47cf-9d15-f77b4dd23eac" />
 <img width="910" height="650" alt="03_booking_funnel" src="https://github.com/user-attachments/assets/0a4bf210-29e5-4441-a900-14e9b2f90e81" />
 <img width="1300" height="650" alt="01_reach_trend" src="https://github.com/user-attachments/assets/fc08140b-1df4-4be1-bffd-e2540c789aca" />

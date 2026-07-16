@@ -1,3 +1,6 @@
+<img width="975" height="780" alt="05_correlation_heatmap" src="https://github.com/user-attachments/assets/71fb5e04-0124-47cf-9d15-f77b4dd23eac" />
+<img width="910" height="650" alt="03_booking_funnel" src="https://github.com/user-attachments/assets/0a4bf210-29e5-4441-a900-14e9b2f90e81" />
+<img width="1300" height="650" alt="01_reach_trend" src="https://github.com/user-attachments/assets/fc08140b-1df4-4be1-bffd-e2540c789aca" />
 # 03_Python — README
 
 ## Where's the dashboard?
